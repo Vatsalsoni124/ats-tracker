@@ -1,11 +1,26 @@
+# 🚀 ATS Compatibility Tracker
 
-  # ATS Compatibility Tracker Website
+ATS Compatibility Tracker is a modern web application that analyzes resumes, calculates an Applicant Tracking System (ATS) compatibility score, and suggests job matches based on extracted skills and keywords. The platform helps users optimize their resumes to improve their chances of passing automated hiring systems.
 
-  This is a code bundle for ATS Compatibility Tracker Website. The original project is available at https://www.figma.com/design/eNqKqcWmc75OZw4T1bOHwo/ATS-Compatibility-Tracker-Website.
+🌐 **Website:** https://ats-tracker-bice.vercel.app/
 
-  ## Running the code
+✨ **Features**
+- Upload Resume (PDF/DOCX)
+- ATS Compatibility Score Calculation
+- Keyword & Skill Analysis
+- Job Matching Suggestions
+- Clean, Fast & Responsive UI
 
-  Run `npm i` to install the dependencies.
+🛠 **Tech Stack**
+- React + TypeScript
+- Vite
+- React Router
+- Tailwind CSS
+- Deployed on Vercel
 
-  Run `npm run dev` to start the development server.
-  
+🚀 **Run Locally**
+```bash
+git clone https://github.com/Vatsalsoni124/ats-compatibility-tracker.git
+cd ats-compatibility-tracker
+npm install
+npm run dev
